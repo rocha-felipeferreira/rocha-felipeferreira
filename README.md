@@ -10,4 +10,6 @@
       - [Comparing Diplomatic Agendas: thematic emphasis of Brazilian Presidents and Foreign Ministers (1995 - 2019)](https://github.com/rocha-felipeferreira/thesis_data)
   - 💻 Personal Projects
     - Take a look at these ones:
+      - [Discursive Pacts of Brazilian FGMIN and Presidents](https://github.com/rocha-felipeferreira/PRES_FGNMin_Discursive_Pacts)  
       - [Projects and Exercises from the Preditiva AI course](https://github.com/rocha-felipeferreira/curso_preditivaAI)
+      
